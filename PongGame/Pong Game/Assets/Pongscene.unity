@@ -315,7 +315,6 @@ GameObject:
   - component: {fileID: 306203637}
   - component: {fileID: 306203636}
   - component: {fileID: 306203635}
-  - component: {fileID: 306203634}
   m_Layer: 0
   m_Name: Ball
   m_TagString: Untagged
@@ -323,17 +322,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &306203634
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 306203633}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8af07524e0b6c384cb1a3625a2cfb4f7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!50 &306203635
 Rigidbody2D:
   serializedVersion: 4

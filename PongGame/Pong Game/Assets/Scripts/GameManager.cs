@@ -10,7 +10,7 @@ public class GameManager : MonoBehaviour {
     // Use this for initialization
     void Start ()
     {
-        theBall = GameObject.FindGameObjectsWithTag("Ball");
+       
 	}
 
     public void Score(string wallID)
