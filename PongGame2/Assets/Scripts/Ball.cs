@@ -73,7 +73,7 @@ public class Ball : MonoBehaviour {
 
 		int score = int.Parse (textUIComp.text);
 
-		score++;
+		score=11;
 
 		textUIComp.text = score.ToString();
 	}
