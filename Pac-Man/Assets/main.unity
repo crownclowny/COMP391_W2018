@@ -18935,7 +18935,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f06448584d4d5694aaea4f9332a58a8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.9
+  speed: 0.5
 --- !u!58 &967549064
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -18982,8 +18982,8 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
-  m_Pitch: 1
+  m_Volume: 0.514
+  m_Pitch: -0.03
   Loop: 0
   Mute: 0
   Spatialize: 0
